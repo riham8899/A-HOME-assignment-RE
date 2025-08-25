@@ -2,7 +2,9 @@
     "rewriters":[
         {
             "source":"/(.*)",
-            "detination":"/"
+            "destination":"/"
         }
     ]
 }
+
+
