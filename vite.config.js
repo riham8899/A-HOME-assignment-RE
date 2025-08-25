@@ -6,11 +6,7 @@ export default defineConfig({
   plugins: [react()],
   base: "/A-HOME-assignment-RE/",
 
-   build: {
-    rollupOptions: {
-      input: 'index.html'
-    }
-  }
+ 
 })
 
 
